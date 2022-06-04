@@ -1,4 +1,4 @@
-package it.iriscubereply.cdc.cleanarchitectureexample
+package it.papaz.cleanarchitectureexample
 
 import org.junit.Test
 

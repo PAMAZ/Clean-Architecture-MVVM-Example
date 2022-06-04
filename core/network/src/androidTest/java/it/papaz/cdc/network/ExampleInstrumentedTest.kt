@@ -1,4 +1,4 @@
-package it.iriscubereply.cdc.network
+package it.papaz.cdc.network
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("it.iriscubereply.cdc.network.test", appContext.packageName)
+        assertEquals("it.papaz.cdc.network.test", appContext.packageName)
     }
 }

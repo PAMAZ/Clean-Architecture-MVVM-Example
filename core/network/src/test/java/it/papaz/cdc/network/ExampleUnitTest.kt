@@ -1,4 +1,4 @@
-package it.iriscubereply.cdc.network
+package it.papaz.cdc.network
 
 import org.junit.Test
 

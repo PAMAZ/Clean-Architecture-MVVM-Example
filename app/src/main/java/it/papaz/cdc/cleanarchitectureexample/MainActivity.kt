@@ -1,4 +1,4 @@
-package it.iriscubereply.cdc.cleanarchitectureexample
+package it.papaz.cdc.cleanarchitectureexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
